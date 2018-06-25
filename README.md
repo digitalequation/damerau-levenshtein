@@ -11,7 +11,7 @@ are asymmetric).
 
 Install with [npm](http://npmjs.org/):
 
-    npm install git://github.com/kirov117/damerau-levenshtein.git
+    npm install https://bitbucket.org/digitalequationteam/damerau-levenshtein.git
 
 Quick test from command line:
 
